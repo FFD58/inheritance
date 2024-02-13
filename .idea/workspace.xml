@@ -7,16 +7,17 @@
     <list default="true" id="cca2c752-ca64-47d0-8694-cad4f003a99d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson2/task3/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson2/task3/Company.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson2/task3/OS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson2/task3/OS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson2/task4/WebSite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson2/task4/WebSite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson2/task6/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson2/task6/Currency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson2/task6/CurrencyLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson2/task6/CurrencyLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson2/task7/DigitInsteadRussianLetterException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson2/task7/DigitInsteadRussianLetterException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson2/task7/EnglishLettersInsteadRussiansException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson2/task7/EnglishLettersInsteadRussiansException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson2/task7/TextChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson2/task7/TextChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson2/task8/KeyboardSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson2/task8/KeyboardSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/task2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/task2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/task2/Month.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/task2/Month.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/task2/MyCalendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/task2/MyCalendar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/task5/FlightCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/task5/FlightCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/task5/IncorrectCityException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/task5/IncorrectCityException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/task5/TimeZone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/task5/TimeZone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/task6/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/task6/Currency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/task6/CurrencyLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/task6/CurrencyLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/task6/DatePeriod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/task6/DatePeriod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/task6/PageDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson5/task6/PageDownloader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,11 +48,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "V:/JavaProjects/Inheritance/src/main/java/ru/fafurin/lesson1"
+    "last_opened_file_path": "V:/JavaProjects/Inheritance/src/main/java/ru/fafurin"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="V:\JavaProjects\Inheritance\src\main\java\ru\fafurin" />
       <recent name="V:\JavaProjects\Inheritance\src\main\java\ru\fafurin\lesson1" />
     </key>
   </component>
