@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cca2c752-ca64-47d0-8694-cad4f003a99d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson9/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson9/task2/CheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson9/task2/CheckedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson9/task2/UncheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson9/task2/UncheckedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson9/task3/ExceptionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson9/task3/ExceptionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson9/task3/checked/FifthCheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson9/task3/checked/FifthCheckedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson9/task3/checked/FirstCheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson9/task3/checked/FirstCheckedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson9/task3/checked/FourthCheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson9/task3/checked/FourthCheckedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson9/task3/checked/SecondCheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson9/task3/checked/SecondCheckedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson9/task3/checked/ThirdCheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson9/task3/checked/ThirdCheckedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson9/task3/unchecked/FifthUncheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson9/task3/unchecked/FifthUncheckedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson9/task3/unchecked/FirstUncheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson9/task3/unchecked/FirstUncheckedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson9/task3/unchecked/FourthUncheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson9/task3/unchecked/FourthUncheckedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson9/task3/unchecked/SecondUncheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson9/task3/unchecked/SecondUncheckedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson9/task3/unchecked/ThirdUncheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson9/task3/unchecked/ThirdUncheckedException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +33,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2cJPdqXNdrkf6evjPKuhsmBVU2P" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -31,9 +50,19 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "V:/JavaProjects/Inheritance/src/main/java/ru/fafurin"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="V:\JavaProjects\Inheritance\src\main\java\ru\fafurin" />
+      <recent name="V:\JavaProjects\Inheritance\src\main\java\ru\fafurin\lesson1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.fafurin.lesson8" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
