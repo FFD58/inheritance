@@ -7,9 +7,13 @@
     <list default="true" id="cca2c752-ca64-47d0-8694-cad4f003a99d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson6/task2/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson6/task2/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson6/task3/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson6/task3/Currency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson6/task4/ExceptionsArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson6/task4/ExceptionsArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson7/PageDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson7/PageDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson7/task4/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson7/task4/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson7/task4/WrongInputDataException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson7/task4/WrongInputDataException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson7/task5/HtmlSaver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson7/task5/HtmlSaver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson7/task6/MyFileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson7/task6/MyFileReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson7/task7/LoaderFromNasaApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/fafurin/lesson7/task7/LoaderFromNasaApi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
